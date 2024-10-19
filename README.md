@@ -1,2 +1,3 @@
 # somya-vyas
-This is myfast Git Repository.
+This is my fast Git Repository.
+Author -somya vyas
